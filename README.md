@@ -11,10 +11,20 @@ In this paper, we explore the design and implementation of a VCO using a transmi
 
 𝐏𝐡𝐚𝐬𝐞 𝐍𝐨𝐢𝐬𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐩𝐨𝐬𝐞𝐝 𝐝𝐞𝐬𝐢𝐠𝐧:
 ![t3](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/e3aa0c9e-eabb-4145-b6aa-c7c9a8627797)
+
+
 𝐓𝐫𝐚𝐧𝐬𝐢𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
+
 ![t4](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/04cd04bd-a27e-4c8e-a034-2f6890eda2b9)
+
+
 𝐏𝐨𝐰𝐞𝐫 𝐃𝐢𝐬𝐬𝐢𝐩𝐚𝐭𝐢𝐨𝐧:
+
+
+
 ![WhatsApp Image 2024-03-01 at 20 02 09_2f8909d4](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/1265f683-94f5-4224-b936-0008a2c429e5)
+
+
 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
 In conclusion, the utilization of a transmission gate-based VCO presents a promising avenue for achieving high performance and low power consumption. By incorporating transmission gate-based inverters and delay cells, along with innovative techniques like the integration of composite loads and IMOS varactors, significant improvements in oscillation frequencies and tuning range efficiency can be realized.
 
