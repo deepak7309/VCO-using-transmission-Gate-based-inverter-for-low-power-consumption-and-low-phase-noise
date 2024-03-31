@@ -27,12 +27,3 @@ In this paper, we explore the design and implementation of a VCO using a transmi
 
 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
 In conclusion, the utilization of a transmission gate-based VCO presents a promising avenue for achieving high performance and low power consumption. By incorporating transmission gate-based inverters and delay cells, along with innovative techniques like the integration of composite loads and IMOS varactors, significant improvements in oscillation frequencies and tuning range efficiency can be realized.
-
-Moreover, the adoption of the LECTOR technique, leveraging self-controlled transistors (LCTs), effectively addresses the challenge of increasing leakage power in advanced technologies. This technique offers substantial leakage reduction without compromising dynamic power efficiency, maintaining accurate logic states and achieving notable power savings compared to alternative methods.
-
-However, it's crucial to acknowledge the tradeoff between propagation delay and area overhead resulting from transistor sizing adjustments in the LECTOR implementation. Future research should focus on optimizing transistor sizing and layout strategies to minimize this tradeoff and further enhance the performance of transmission gate-based VCO designs.
-
-Overall, the findings underscore the potential of transmission gate-based VCOs in delivering high performance while meeting stringent power constraints, thus advancing the frontier of VCO design for modern electronic applications.
-
-
-
