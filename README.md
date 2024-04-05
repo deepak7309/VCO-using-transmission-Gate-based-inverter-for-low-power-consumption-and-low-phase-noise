@@ -7,23 +7,18 @@ In this paper, we explore the design and implementation of a VCO using a transmi
 
 𝐓𝐡𝐞 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐕𝐂𝐎 𝐢𝐬 𝐬𝐡𝐨𝐰𝐧 𝐛𝐞𝐥𝐨𝐰:
 
-![t2](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/20dadfb4-3a4f-4e3d-8949-05505ff3d418)
-
-𝐏𝐡𝐚𝐬𝐞 𝐍𝐨𝐢𝐬𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐩𝐨𝐬𝐞𝐝 𝐝𝐞𝐬𝐢𝐠𝐧:
-![t3](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/e3aa0c9e-eabb-4145-b6aa-c7c9a8627797)
-
-
-𝐓𝐫𝐚𝐧𝐬𝐢𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬:
-
-![t4](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/04cd04bd-a27e-4c8e-a034-2f6890eda2b9)
-
-
-𝐏𝐨𝐰𝐞𝐫 𝐃𝐢𝐬𝐬𝐢𝐩𝐚𝐭𝐢𝐨𝐧:
+![diagrma](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/4f267b1b-5f96-4703-9ef9-ccd6a354bb2c)
 
 
 
-![WhatsApp Image 2024-03-01 at 20 02 09_2f8909d4](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/1265f683-94f5-4224-b936-0008a2c429e5)
+𝐏𝐡𝐚𝐬𝐞 𝐍𝐨𝐢𝐬𝐞,𝐓𝐫𝐚𝐧𝐬𝐢𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐏𝐨𝐰𝐞𝐫 𝐃𝐢𝐬𝐬𝐢𝐩𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐩𝐨𝐬𝐞𝐝 𝐝𝐞𝐬𝐢𝐠𝐧:
+
+![output](https://github.com/deepak7309/VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise/assets/132645894/0f41b45f-7938-4c1e-86bd-4dde0d4ac0c2)
+
 
 
 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
-In conclusion, the utilization of a transmission gate-based VCO presents a promising avenue for achieving high performance and low power consumption. By incorporating transmission gate-based inverters and delay cells, along with innovative techniques like the integration of composite loads and IMOS varactors, significant improvements in oscillation frequencies and tuning range efficiency can be realized.
+In conclusion, the utilization of a transmission gate-based VCO presents a promising avenue for achieving high performance and low power consumption. By incorporating transmission gate-based inverters and delay cells, along with innovative techniques like the integration of composite loads and IMOS varactors, significant improvements in oscillation frequencies and tuning range efficiency can be realized.Transmission gate based inverter has been used in this design and
+we have obtained phase noise of -93.6047dBc/Hz.Power
+Consumption is 1.8mW.
+
