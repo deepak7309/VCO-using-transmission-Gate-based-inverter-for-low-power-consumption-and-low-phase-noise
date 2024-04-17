@@ -1,4 +1,4 @@
-# VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise
+# VCO-using-transmission-Gate-based-inverter-for-low-power-consumption-and-low-phase-noise in Cadence Virtuoso 
 Voltage-Controlled Oscillators (VCOs) serve as fundamental building blocks in various electronic systems, ranging from communication devices to frequency synthesizers. The demand for VCOs with low power consumption and low phase noise characteristics has grown significantly, especially with the proliferation of battery-operated and portable devices. In response to this demand, innovative circuit design techniques have emerged to address these requirements effectively.
 
 One such technique involves leveraging transmission gate-based inverters and delay cells in VCO design. This approach offers several advantages over traditional designs, including improved power efficiency and reduced phase noise. By utilizing transmission gates, which provide lower resistance and capacitance compared to conventional CMOS inverters, along with carefully designed delay cells, it becomes possible to achieve a VCO with enhanced performance metrics.
